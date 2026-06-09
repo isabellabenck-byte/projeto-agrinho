@@ -35,3 +35,7 @@ O projeto conta com um painel de controle exclusivo que permite:
 |---------------|----------------------------------------------------|
 | `index.html`  | Arquivo principal (Estrutura, Estilo e Lógica)     |
 | `README.md`   | Documentação do projeto                          |
+README.md
+index.html
+script.js
+style.css
